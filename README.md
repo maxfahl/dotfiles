@@ -1,4 +1,8 @@
-# Prezto — Instantly Awesome Zsh
+## Hello
+
+This is my personal dotfiles based on the prezto framework. Feel free to use if you'd like.
+
+# [Prezto](https://github.com/sorin-ionescu/prezto) Documentation
 
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
 interface environment with sane defaults, aliases, functions, auto completion,
