@@ -50,12 +50,12 @@ alias s='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 alias idea='open -na "IntelliJ IDEA.app" --args "$@"'
 
 # Navigates to the current selected folder in finder
-_ns() {
+nfs() {
   cd "$(pfs)"
 }
 
 # Navigates to the current folder of finder
-_nd() {
+nfd() {
   cd "$(pfd)"
 }
 
